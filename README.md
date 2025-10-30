@@ -1,2 +1,3 @@
-# game-of-life-sql
-Game of Life in SQL
+# Game of Life
+
+Game of Life in SQL(technically PL/SQL)
